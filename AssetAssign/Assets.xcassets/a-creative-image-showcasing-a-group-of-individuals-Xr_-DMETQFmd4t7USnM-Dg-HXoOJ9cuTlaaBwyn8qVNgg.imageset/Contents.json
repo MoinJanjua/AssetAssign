@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-creative-image-showcasing-a-group-of-individuals-Xr_-DMETQFmd4t7USnM-Dg-HXoOJ9cuTlaaBwyn8qVNgg.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
